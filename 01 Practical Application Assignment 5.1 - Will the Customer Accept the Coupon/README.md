@@ -2,7 +2,7 @@
 
 Analysis of the UCI Machine Learning Repository Coupon Acceptance dataset.
 
-Notebook can be found here: https://github.com/afadlallah/CouponDataAnalysis/blob/main/CouponDataAnalysis.ipynb
+Notebook can be found here: [Will the Customer Accept the Coupon?](https://github.com/afadlallah/UCB/blob/master/01%20Practical%20Application%20Assignment%205.1%20-%20Will%20the%20Customer%20Accept%20the%20Coupon/Practical%20Application%20Assignment%205.1%20-%20Will%20the%20Customer%20Accept%20the%20Coupon.ipynb)
 
 ## Features
 

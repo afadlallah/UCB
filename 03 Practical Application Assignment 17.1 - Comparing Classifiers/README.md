@@ -4,6 +4,8 @@
 
 The purpose of this project is to evaluate the performance of various classifiers (Logistic Regression, KNN, Decision Tree, Random Forest, and SVM) on a dataset related to the marketing of bank products over the phone. The goal is to predict if a customer will subscribe to a term deposit.
 
+Notebook can be found here: [Comparing Classifiers](https://github.com/afadlallah/UCB/blob/master/03%20Practical%20Application%20Assignment%2017.1%20-%20Comparing%20Classifiers/Practical%20Application%20Assignment%2017.1%20-%20Comparing%20Classifiers.ipynb)
+
 ## Dataset
 
 The dataset used in this project is the [Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing) from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/). The dataset contains the following features:

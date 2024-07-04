@@ -4,6 +4,8 @@
 
 The purpose of this project is to analyze and understand the factors that influence the price of a car. To accomplish this task, various machine learning models will be used along with a standardized process for data preprocessing and analysis called CRISP-DM.
 
+Notebook can be found here: [What Drives the Price of a Car?](https://github.com/afadlallah/UCB/blob/master/02%20Practical%20Application%20Assignment%2011.1%20-%20What%20Drives%20the%20Price%20of%20a%20Car/Practical%20Application%20Assignment%2011.1%20-%20What%20Drives%20the%20Price%20of%20a%20Car.ipynb)
+
 ## Dataset
 
 The dataset used in this project is based on the [Used Cars Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data) from Kaggle. The dataset contains the following features:
